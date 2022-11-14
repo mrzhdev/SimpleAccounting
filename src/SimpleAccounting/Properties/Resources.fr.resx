@@ -332,7 +332,7 @@ Les noms de destinataires importés et les textes de transaction peuvent être m
     <value>Nouveau</value>
   </data>
 	<data name="Menu_Project_Open" xml:space="preserve">
-    <value>Ouvert</value>
+    <value>Ouvrir</value>
   </data>
 	<data name="Menu_Project_Save" xml:space="preserve">
     <value>Sauvegarder</value>
